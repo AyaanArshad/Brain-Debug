@@ -1,0 +1,20 @@
+{
+    "params":
+    {
+        "local_server": "True",
+        "local_uri":"mysql://root:@localhost/brain debug",
+        "prod_uri":"mysql://root:@localhost/brain debug",
+        "blog_name":"Welcome to Brain Debugg",
+        "tw_url":"https://twitter.com",
+        "gt_url":"https://github.com",
+        "fb_url":"https://facebook.com",
+        "gmail-user": "ayaan.arshad2002@gmail.com",
+        "gmail-password": "neymarjrcr7",
+        "about_text": "Hey this is Ayaan, this is a blog that i run to share what i have learnt about the Tech world and other stuff as a Uni Student. Hope you enjoy the experience that i have tried to create ",
+        "no_of_posts": 5,
+        "no_of_posts_on_home": 4,
+        "admin_user":"ayaan",
+        "admin_password":"pass"
+        
+    }
+}
